@@ -5,7 +5,7 @@ body {
 }
 
 .top-container {
-  background-color: #d4ebd0;
+  background-color: #eaf6f6;
   position: relative;
   padding-top: 100px;
 }
@@ -24,6 +24,7 @@ h2 {
 h3 {
   font-family: "Montserrat", sans-serif;
   color: #11999e;
+
   font-weight: normal;
 }
 
@@ -52,8 +53,11 @@ a {
   float: left;
   margin-right: 30px;
 }
-.computer-image {
+.chillies-image {
   width: 25%;
-  float: left;
-  margin-right: 30px;
+  float: right;
+  margin-left: 30px;
+}
+p {
+  color: #40514e;
 }
