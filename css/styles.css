@@ -96,9 +96,9 @@ p {
 
 .BUTTON_GYF:hover {
   background: #856c8b;
-  border: solid #856c8b 1px;
+  border: solid #856c8b 7px;
 
-  border-radius: 20px;
+  border-radius: 9px;
   text-decoration: none;
 }
 .contact-me {
@@ -108,4 +108,12 @@ p {
   color: #eaf6f6;
 }
 .bottom-container {
+  background-color: #66bfbf;
+  height: 170px;
+  margin-bottom: 0;
+}
+.footer-link {
+  color: #11999e;
+  text-decoration: none;
+  margin-top: 30px;
 }
