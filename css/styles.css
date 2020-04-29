@@ -29,12 +29,13 @@ h3 {
   font-weight: normal;
 }
 hr {
-  border-style: none;
-  border-top-style: dotted;
-  height: 0;
-  border-width: 5px;
-  width: 5%;
+  border-style: dotted;
+  border-bottom-style: none;
+
+  border-width: 6px;
+  width: 4%;
   border-color: #eaf6f6;
+  margin: 100px auto;
 }
 
 .bottom-cloud {
@@ -125,4 +126,8 @@ p {
 }
 .middle-container {
   margin: 100px 0;
+}
+.contact-message {
+  width: 40;
+  margin: 40px auto;
 }
