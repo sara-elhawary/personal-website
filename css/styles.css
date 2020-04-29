@@ -47,8 +47,13 @@ a {
   line-height: 2;
 }
 .interface-image {
+  /* 25% of their parent size */
   width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 .computer-image {
   width: 25%;
+  float: left;
+  margin-right: 30px;
 }
