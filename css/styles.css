@@ -28,6 +28,12 @@ h3 {
   font-weight: normal;
 }
 hr {
+  border-style: none;
+  border-top-style: dotted;
+  height: 0;
+  border-width: 5px;
+  width: 5%;
+  border-color: #eaf6f6;
 }
 
 .bottom-cloud {
@@ -69,4 +75,30 @@ a {
 }
 p {
   color: #40514e;
+}
+.BUTTON_GYF {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: sans-serif;
+  font-size: 29px;
+  font-weight: 600;
+  padding: 30px;
+  background-color: #66bfbf;
+
+  border: solid #66bfbf 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_GYF:hover {
+  background: #856c8b;
+  border: solid #856c8b 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
 }
