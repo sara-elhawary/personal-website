@@ -40,12 +40,12 @@ hr {
 .bottom-cloud {
   position: absolute;
   left: 300px;
-  bottom: 300px;
+  bottom: 250px;
 }
 .top-cloud {
   position: absolute;
   right: 200px;
-  top: 150px;
+  top: 40px;
 }
 .profile {
   margin: 40px auto 20px auto;
