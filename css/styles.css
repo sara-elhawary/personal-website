@@ -2,6 +2,7 @@ body {
   margin: 0;
   font-family: "Merriweather", serif;
   text-align: center;
+  color: #40514e;
 }
 
 .top-container {
@@ -50,6 +51,10 @@ hr {
   margin: 40px auto 20px auto;
   line-height: 0.5;
 }
+.intro {
+  width: 30%;
+  margin: auto;
+}
 a {
   color: #11999e;
 }
@@ -75,6 +80,7 @@ a {
 }
 p {
   color: #40514e;
+  line-height: 2;
 }
 .BUTTON_GYF {
   -webkit-border-radius: 9px;
@@ -116,4 +122,7 @@ p {
   color: #11999e;
   text-decoration: none;
   margin-top: 30px;
+}
+.middle-container {
+  margin: 100px 0;
 }
